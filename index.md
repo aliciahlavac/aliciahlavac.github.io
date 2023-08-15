@@ -8,26 +8,13 @@
 <img src="images/mapfinal.png?raw=true"/>
 
 ---
-[Belly Button Examination Project](https://aliciahlavac.github.io/Belly-Button-Examination/)
+[Project 2 Belly Button Examination](https://aliciahlavac.github.io/Belly-Button-Examination/)
 
 ![BellyButtonChallenge](https://github.com/aliciahlavac/Belly_Button_Challenge/assets/127240852/9169b6d9-9506-4080-801f-0bdca4b35b38)
 
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
