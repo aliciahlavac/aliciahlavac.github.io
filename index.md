@@ -5,7 +5,7 @@
 ### Projects
 
 [Project 1 Chicago Crime]([/sample_page](https://github.com/ralfwelvers/project1_chicago_crime))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PerCapitaCrimeRatebyDistrictper1000People.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
