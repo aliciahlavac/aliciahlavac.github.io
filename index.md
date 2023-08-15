@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Chicago Crime]([/sample_page](https://github.com/ralfwelvers/project1_chicago_crime))
-[image](https://github.com/aliciahlavac/aliciahlavac.github.io/assets/127240852/0f991421-4752-4401-8fc6-1ef13a37d594)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
