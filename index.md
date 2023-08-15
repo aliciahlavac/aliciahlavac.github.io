@@ -8,7 +8,7 @@
 <img src="images/mapfinal.png?raw=true"/>
 
 ---
-[Belly Button Examination Project]((https://github.com/aliciahlavac/Belly-Button-Examination))
+[Belly Button Examination Project](https://github.com/aliciahlavac/Belly-Button-Examination)
 
 ![BellyButtonChallenge](https://github.com/aliciahlavac/Belly_Button_Challenge/assets/127240852/9169b6d9-9506-4080-801f-0bdca4b35b38)
 
